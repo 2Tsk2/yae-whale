@@ -1,2 +1,2 @@
 # yae-whale
-a python script that print "yae is a whale!"
+a python script that prints out,"yae is a whale!"
